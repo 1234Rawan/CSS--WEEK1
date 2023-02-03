@@ -1,0 +1,35 @@
+.assign-2-shape-1
+{padding: 20px;
+    margin: 20px;
+    background-color: #DDD;
+    width: 400px;
+    border-left: 5px solid crimson;
+    outline-color:  #DDD;
+    display: block;
+    visibility: visible;
+  
+}
+.assign-2-shape-2
+{
+   
+    padding: 20px;
+    margin: 20px;
+    background-color: #DDD;
+    width: 400px;
+    outline-color: #DDD;
+    visibility: hidden;
+    display: block;
+   
+    
+}
+.assign-2-shape-3
+{
+    padding: 20px;
+    margin: 20px;
+    background-color: #DDD;
+    width: 400px;
+    border-left:5px solid teal;
+    outline-color: #DDD;
+    display: block;
+    visibility: visible;
+}

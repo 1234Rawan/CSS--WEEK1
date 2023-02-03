@@ -1,0 +1,19 @@
+.A p{
+    padding: 15px;
+    margin: 15px auto;
+    background-color: #ddd;
+    text-align: center;
+    border-right: 5px solid tomato ;
+    width: 400px;
+}
+.A p::before{
+    content: attr(data-person);
+    background-color: tomato;
+    border-width: 5px;
+    width: 30px;
+    padding: 15px;
+    margin: 15px auto;
+    left: 466px;
+    position: absolute;
+    margin-top: -15px;
+}

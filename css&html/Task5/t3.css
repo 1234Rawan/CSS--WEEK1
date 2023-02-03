@@ -1,0 +1,28 @@
+.a{
+ background-color: #ddd;
+ width: 400px;
+ margin: 20px auto;
+ padding: 20px;
+ 
+ text-align: center;
+}
+.b{
+    background-color: #ddd;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+   }
+   .c{
+    text-align: center;
+    background-color: #ddd;
+    width: 400px;
+    padding: 20px;
+    text-overflow: clip;
+    margin: 20px auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   }

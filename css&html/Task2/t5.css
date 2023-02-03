@@ -1,0 +1,34 @@
+.assign-4-shape-1{
+    width: 400px;
+    height: 400px;
+    background-image:url("image.png") ;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    color: white;
+}
+.assign-4-shape-2{
+    width: 400px;
+    height: 400px;
+    background-image:url("image.png") ;
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 80%;
+    color: white;
+}
+.assign-4-shape-3{
+    width: 400px;
+    height: 400px;
+    background-image:url("image.png") ;
+    background-repeat: repeat-x;
+    background-position: left;
+    background-size: 80%;
+    color: white;
+}
+.assign-4-shape-4{
+    width: 400px;
+    height: 400px;
+    background-image:url("image.png") ;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+}

@@ -1,0 +1,37 @@
+.a{
+    padding: 20px;
+    margin: 20px auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: orangered;
+    background-color:white;
+    text-align: center;
+
+}
+.n{
+    background-color: #ddd;
+    padding: inherit;
+    margin: 20px auto;
+    border-style: inherit;
+    border-width: inherit;
+    border-color: inherit;
+    text-align: center;
+}
+.e{
+    padding: 20px;
+    margin: 20px auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightblue;
+    background-color: white;
+    text-align: center;
+}
+.b{
+    background-color: #ddd;
+    padding: inherit;
+    margin: 20px auto;
+    border-style: inherit;
+    border-width: inherit;
+    border-color: inherit;
+    text-align: center;
+}

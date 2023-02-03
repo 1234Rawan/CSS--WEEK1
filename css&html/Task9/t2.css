@@ -1,0 +1,19 @@
+div{
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #DDD;
+    text-align: center;  
+    position: relative;
+    width: 300px;
+}
+div::first-letter{
+    color: white;
+    background-color: #f61717;
+    margin: 5px auto;
+    padding: 5px;
+   margin-left: -22px;
+   margin-top: -5px;
+    top: 50%;
+    float: left;
+    position: absolute;
+}
